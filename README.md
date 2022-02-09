@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 -   Backend: NodeJS, ExpressJS, EJS.
 -   Database: MongoDB, Mongoose, SQL.
 -   Extras: Git, Github & Version Control.
-- 
 - 👯 I’m looking to collaborate on projects related to Backend Development.
 - 📫 How to reach me: https://www.linkedin.com/in/puneet-yadav-9a80a51a6/
 - ⚡ Fun fact: loading soon....
